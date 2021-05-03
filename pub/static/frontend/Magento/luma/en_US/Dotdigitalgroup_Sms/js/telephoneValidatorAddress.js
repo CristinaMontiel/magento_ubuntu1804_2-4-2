@@ -1,0 +1,1 @@
+/var/www/html/magento2.com/vendor/dotmailer/dotmailer-magento2-extension-sms/view/frontend/web/js/telephoneValidatorAddress.js
